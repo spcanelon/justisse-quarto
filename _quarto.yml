@@ -1,0 +1,24 @@
+project:
+  type: book
+
+book:
+  title: "justisse-quarto"
+  author: "Justisse College International"
+  date: "4/14/2022"
+  cover-image: "img/logo.png"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: pulse #pulse lux minty flatly
+  pdf:
+    documentclass: scrreprt
+
+
+

@@ -1,0 +1,360 @@
+# 4: More Reproductive Endocrinology {.unnumbered}
+
+## 4.1 - Overview {.unnumbered}
+
+### Introduction {.unnumbered}
+
+The hormonal systems that regulate human reproduction are part of the endocrine system. A basic understanding of the endocrine and the role of the adrenal and thyroid glands is useful for the Holistic Reproductive Health Practitioner when learning how to manage reproductive health concerns. The information from this section is foundational for understanding Units G and I with respect to the case management of clients with reproductive health concerns, and in Unit H and J with respect to holistic reproductive health care.
+
+When learning about the endocrine system and the action of its various hormone messengers it is important to be mindful that the actions are not reducible or simplistic. The commonly used metaphor of the body as a biochemical factory does not accurately account for biochemical individuality and the myriad influences on the biochemistry though environment in all its expressions. A more helpful metaphor of the endocrine system would be to enter into the intricacies of a live symphony. During a symphonic concert each instrument (hormone) plays its part and enters into the music as designated by the musical score (DNA expression, environmental influences, etc.). The complexity of the interaction of the instruments in creating the music and the resulting listening experience is influenced in multiple ways - for example by the notes played; by how the sound carries in the environment in which it is expressed; by the musical tempo; by the temperature of the environment; by the individual style nuances of the players and the conductor; and by the psychological state of the listener who interprets what they hear. In other words, the endocrine system belongs to the realm of the quantum and field theories because its expression is influenced by its nature and the nature of that with which interfaces with it and with which it interfaces. So the HRHP is asked to be mindful that though we may know something about the endocrine system it is still by a large a mysterious field of medicine.
+
+___
+
+### The Hypothalamus -- the "Master Gland" {.unnumbered}
+
+The **hypothalamus** is a portion of the brain that contains a number of small nuclei with a variety of functions. One of the most important functions of the hypothalamus is to link the nervous system to the endocrine system via the pituitary gland (hypophysis). This function is what makes people tag it as the Master Gland.
+
+The hypothalamus is located below the thalamus, just above the brainstem and is part of the limbic system. In the terminology of neuroanatomy, it forms the ventral part of the diencephalon\[1\]. All vertebrate brains contain a hypothalamus. In humans, it is the size of an almond.
+
+The hypothalamus is responsible for certain metabolic processes that coordinate peripheral autonomic mechanisms, endocrine activity, and many somatic functions related to the autonomic nervous system. It synthesizes and secretes certain neurohormones, often called **releasing hormones** or hypothalamic hormones, and these in turn **stimulate or inhibit the secretion of pituitary hormones**. The hypothalamus controls body temperature, hunger, important aspects of parenting and attachment behaviors, thirst (water balance), fatigue, sleep, body temperature, sexual development, food intake, and circadian rhythms. \[2\] The hypothalamus secretes several neural hormones that regulate secretion of various pituitary hormones.
+
+![[C4.1-1-hypothalamus.png]][link to image](https://justisse.ca/MediaGallery/HRHP%20Images/HRHP/UnitC/Hypothalamus%20and%20endocrine%20glands%20in%20head%20and%20neck.png)
+
+### Hypothalamus {.unnumbered}
+
+\[1\] **Diencephalon** (between brain, interbrain, thalamencephalon) -- the posterior part of the forebrain that connects the midbrain with the cerebral hemispheres, encloses the third ventricle, and contains the thalamus and hypothalamus.
+
+\[2\] https://en.wikipedia.org/wiki/Hypothalamus
+
+___
+
+### The Endocrine System: An Overview {.unnumbered}
+
+**Read: [Chapter 5 Understanding Human Sexuality](https://drive.google.com/drive/folders/170WXmuPrLICht31n8fvKDQUcGQXmQE_g)**[.](https://drive.google.com/drive/folders/170WXmuPrLICht31n8fvKDQUcGQXmQE_g) Janet Shibley, Hyde, John D. DeLamater, & E. Sandra Byers. Page 107 to 136.
+
+The **endocrine system** is the second most powerful body system after the nervous system. Together the endocrine and nervous systems coordinate and integrate all cellular activity. In milliseconds, the nervous system can influence muscular and glandular activity through the delivery of electrochemical impulses by neurons. Physiological responses to stimulation from the endocrine system are slower than responses to neuron stimulus, because many of the endocrine system's processes are lengthy and require continuous maintenance.
+
+The **endocrine system** influences glandular activity and cellular metabolism through the secretion of hormones into the bloodstream. **Hormones** are the chemical messengers of the endocrine glands that reach their target cells via the bloodstream. Hormones have an extensive and varied affect on the body, because most body cells are targets for one or more hormones. Although the effects of hormones are many and varied, their actions can be categorized into 5 major processes:
+
+#### **Five (5) Major Processes that Hormones Control** {.unnumbered}
+
+1.  growth and development
+2.  reproduction
+3.  immune response to stressors
+4.  maintenance of the blood balance of electrolytes, water, and nutrients
+5.  regulation of energy balance and cellular metabolism.
+
+There are two kinds of glands in the human body, endocrine and exocrine. Exocrine glands have ducts through which they transport non-hormone products to their membrane surface. Instead of ducts, **endocrine glands (ductless glands)** have rich vascular and lymphatic networks through which they release hormones into the surrounding tissue fluid and receive hormones. The hormone producing cells of the endocrine glands are arranged in strings and branching networks to maximize contact between them and surrounding capillaries and extracellular fluids.
+
+![[C4.1-2-major-endocrine-glands.png]][link to image](https://justisse.ca/MediaGallery/HRHP%20Images/HRHP/UnitC/UnitC-EndocrineSystem.jpg)
+
+The **endocrine system** includes the following glands, which are widely scattered throughout the body: anterior and posterior pituitary, hypothalamus, pineal, thyroid, and parathyroid, thymus, pancreas, adrenal, and the gonads (ovaries and testes). The combined weight of the endocrine glands is about 125 grams (4.5 oz.), which is relatively small compared to weight and size of other body organs. The **endocrine glands** proper include the anterior and posterior pituitary, pineal, thyroid, and parathyroid, thymus, and adrenal glands. The hypothalamus, pancreas, ovaries, and testes contain distinct areas of tissue that produces hormones and thus function as major endocrine glands; in addition to their function as exocrine glands. The hypothalamus is called a **neuroendocrine organ**, because of its particular neural functions. Various other tissues and organs produce hormones and are thus part of the endocrine system. For example, discrete tissue areas in the small intestine, stomach, kidneys, and heart produce hormones, though hormone production is not the chief function of these organs.
+
+### Hormones {.unnumbered}
+
+**Hormones** are chemical substances secreted by endocrine cells into the extracellular fluids that regulate the metabolic function of certain body cells. The body produces a large variety of hormones, and which are classified as either **amino acid-based** or **steroids**. Most hormones are amino acid-based. The ovaries, testes, and adrenal cortex produce steroids. Eicosanoids (paracrines) are a third classification of hormone-like chemicals. Nearly all cell membranes release **eicosanoids** derived from arachidonic acid, and are biologically active lipids\[1\]. They include leukotrienes, prostaglandins, and thromboxanes. Leukotrienes are signaling chemicals that mediate inflammation and some allergic reactions. Prostaglandins have multiple targets and effects, for example raising blood pressure, increasing smooth muscle contractions of the reproductive system, and enhancing blood clotting and inflammation. Thromboxanes, derived from prostaglandin precursors in platelets, stimulate aggregation of platelets and constriction of blood vessels. Eicosanoids are not true circulating hormones because their effect is highly localized. 
+
+####  **Hormones affect target cells by altering cell activity through increasing or decreasing rates of cellular processes, which may c**haracteristically manifest as one or more of the following: {.unnumbered}
+
+1.  Alterations in plasma membrane permeability
+2.  Alterations in plasma membrane polarity by opening or closing ion channels
+3.  Synthesis of proteins
+4.  Synthesis of regulatory molecules such as enzymes within the cell
+5.  Enzyme deactivation or activation
+6.  Initiation of secretory activity
+7.  Simulation of mitosis
+
+Although all major hormones circulate to virtually all tissues, a given hormone influences the activity of only certain tissue cells, called **target cells**. For a target cell to respond to a hormone, it must have specific **receptors** on its plasma membrane or in its interior to which that hormone can bind. For example, only certain cells of the adrenal cortex have receptors for adrenocorticotropic hormone (ACTH), where as nearly all body cells have receptors for the thyroid hormone thyroxin. The type of target cell and type of hormone dictates the precise cellular response. For example, when epinephrine, an adrenal hormone, binds to the smooth muscle cells of blood vessels it stimulates them to contract; when it binds to other cells, a different response ensues. Two methods control the binding of hormone receptors to the intracellular mechanisms needed to affect the hormone's intended action. The amino-acid based hormones require regulatory molecules called G proteins and one or more intracellular secondary messengers to mediate the target cell's response to the hormone. The steroid hormones directly activate the gene (DNA) regulating the intended action.
+
+**Hormone-receptor binding** is critical to hormonal cell activation. However, three other factors are crucial to the outcome of hormone-receptor interaction: 1) blood levels of the hormone 2) the relative numbers of receptors for a particular hormone on or in the target cells 3) the strength of affinity between the hormone and the receptor. Various stimuli and body changes affect all three factors. A large number of high-affinity receptors produce a marked hormonal effect. A small number of low-affinity receptors cause either a reduced target cell response or endocrine dysfunction, whether or not hormone blood levels are normal. The balance between the number of receptors and the degree of affinity of those receptors is critical to maintaining normal hormonal function.
+
+Hormone reception is a dynamic process. Target cells will produce more hormone receptors in response to rising blood levels of the specific hormone to which they respond **(up-regulation)**. Conversely, prolonged exposure to high hormone concentrations desensitizes target cells, causing receptors to respond sluggishly or not at all to hormonal stimulation **(down-regulation)**. The advantage of down-regulation is that it prevents overreaction to high hormone levels. The disadvantage of a prolonged down-regulation is that it results in the degeneration of receptors, which then are not available when hormone levels stabilize. As part of their dynamic nature, hormones are capable of influencing the number and affinity of their own receptors, as well as receptors that respond to other hormones. For example, progesterone causes a loss of estrogen receptors in the uterus, which antagonize the estrogen effects. Conversely, in some cells, estrogen stimulates the production of progesterone receptors, improving response to progesterone.
+
+Very low blood concentrations of hormones will have a profound effect on their target organs. The blood concentration of a circulating hormone (amino-acid based and steroid) reflects the rate of its release, its deactivation, and its removal from the body. The kidney and liver enzyme systems remove most spent hormones, though enzymes in target cells rapidly degrade some hormones. The survival of a hormone in the blood, its **half-life**, is brief - usually from 1 to 30 minutes.
+
+The time for the effect of a hormone to occur varies from immediate to hours or days. The steroid hormones take the longest to exert their effect. The effects of hormones may disappear as soon as hormone blood levels drop, or they may persist for hours after blood levels are very low. There is such variation, because hormone blood levels of each hormone is controlled individually to meet the various and changing needs of the body, and to respond to the various feedback systems between the endocrine glands and their organs and tissue.
+
+The blood level of most hormones varies within a very narrow range, and is controlled by a negative feedback that when prompted by internal or external stimuli governs hormone synthesis and release. When hormone levels rise, they cause changes to the target organ or tissue, which inhibits further hormone release. There are three major endocrine control system stimuli that prompt hormone synthesis and release: 1) humoral, neural, and hormonal. The simplest is the **humoral stimuli**, which are changes in the blood levels of certain ions and nutrients. For example, the parathyroid monitors the concentration of calcium ions in the blood, and when the level declines, secretes parathyroid hormone. **Neural stimuli** control is through nerve fibre stimulation that causes hormone release, and is uncommon. One example is the stimulation of the adrenal medulla to release norepinephrine or epinephrine (catecholamines) by the sympathetic nervous system. **Hormonal stimuli** control is when a hormone produced by one endocrine gland stimulates another endocrine gland to synthesize or release its hormones. For example, the hypothalamus release of gonadotropin releasing hormone stimulates the anterior pituitary to release luteinizing and follicles stimulating hormones. These three endocrine controls represent the major but not all the stimuli to which the endocrine system responds.
+
+The nervous system may modify or modulate the endocrine “turn on” factors (humoral, neural, and hormonal) as well as the “turn off” factors (feedback inhibition and others). The nervous system overrides endocrine system controls when the endocrine system alone cannot maintain homeostasis. For example, insulin and other hormones maintain blood sugar levels at 90-110 mg glucose per 100 ml of blood. However, when the body experiences a severe stress the hypothalamus and sympathetic nervous system cause blood sugar levels to rise well above normal to accommodate increased physiological need during the stress. Remember that the hypothalamus is a center for the autonomic nervous system and a neuroendocrine organ. It regulates homeostatic control of water balance, temperature, bio-rhythms, and emotions. The hypothalamus facilitates neuroendocrine modifications in all body tissue when external stimuli, such as acute blood loss, or severe stress or trauma occur.
+
+### Hormone Receptors {.unnumbered}
+
+#### What are Receptors? {.unnumbered}
+
+The following is an excerpt from a Women's International Pharmacy blog post written by Carol Peterson. Read the whole article [here](https://www.womensinternational.com/blog/hormones-interact-with-receptors-sites/). 
+
+"Receptors are protein structures designed to snag passing hormones. Receptors for hormones that poke through the cell membrane are called membrane receptors. Other receptor sites are inside the cell (intracellular receptors) in the cytosol, and more receptors are in the cell nucleus. The number of receptors is not stagnant, and varies according to nutrients and the environment.
+
+Once a receptor captures a hormone, that cell receives instructions for an action, such as cell replication, manufacturing other proteins, moderating cell activity, and programming abnormal cell death. A single hormone can produce action within minutes of binding. Receptors manipulate the cell's action by upregulating or down-regulating the production of proteins."
+
+\[1\] Lipid - any of a group of organic compounds, including the fats, oils, waxes, sterols, and triglycerides that are insoluble in water but soluble in nonpolar organic solvents, are oily to the touch, and together with carbohydrates and proteins constitute the principal structural material of living cells.
+
+---
+
+## 4.2 - Pituitary Gland (Hypophysis) {.unnumbered}
+
+### Pituitary Gland (Hypophysis) {.unnumbered}
+
+The pea-sized **pituitary gland** is located in the saddle-shaped center (hypophyseal fossa or sella turcica) of the sphenoid bone, a compound butterfly-shaped compound bone located at the base of the skull. It sits on a stalk (**infundibulum**) that connects it to the top of the hypothalamus. The internal carotid arteries deliver blood and the cavernous and dural sinuses collect venous return. The pituitary is made of two major lobes, the anterior and posterior lobes, which together are responsible for secreting many major hormones. The infundibulum and posterior pituitary lobe make up the **neurohypophysis** area, which anatomically belongs to the brain.
+
+### Anterior Pituitary Lobe {.unnumbered}
+
+The **anterior pituitary** lobe or **adenohypophysis** is made of glandular tissue. It originates from the oral mucosa, and is formed from epithelial tissue. The anterior lobe loses its connection with the oral mucosa where it adheres to the posterior pituitary lobe. The anterior pituitary synthesizes and secretes a number of hormonal products that regulate the activity of the other endocrine glands. There are 6 distinct known anterior pituitary hormones. TSH, ACTH, FSH, and LH are tropins or tropic hormones that regulate the secretory activity of other endocrine glands. GH and PRL exert their effects on non-endocrine targets, though their exact process is poorly understood.
+
+1.  **Thyroid stimulating hormone (TSH)** or **thyrotropin** - stimulates and regulates thyroid gland activity and the normal development of the thyroid gland. Hypothalamus release of **thyrotropin-releasing hormone (TRH)** stimulates TSH release. Cold temperatures and pregnancy indirectly stimulate TSH release. 
+2.  **Adrenocorticotropic hormone (ACTH)** or **corticotropin** - stimulates the secretion of corticosteroid hormones (most importantly glucocorticoids\[1\]) by the adrenal cortex. Hypothalamus release of **corticotropin-releasing hormone (CRH)** stimulates ACTH release. CRH has a diurnal rhythm, with levels peaking shortly after arising from a full sleep. Rising levels of glucocorticoids feedback and block secretion of CRH and consequently release of ACTH. Internal and external stressors alter the normal ACTH rhythm. 
+3.  **Follicle stimulating hormone (FSH)** - a gonadotropin that regulates the function of the ovaries and testes and stimulates gamete production. The hypothalamus release of gonadotropin-releasing hormone (GnRH) stimulates FSH release.
+4.  **Luteinizing hormone (LH)** - a gonadotropin that promotes the synthesis of ovarian (estrogen and progesterone) and testicular (testosterone) hormones. LH works with FSH in the maturation of the ovarian follicle and independently triggers ovulation. The hypothalamus release of gonadotropin-releasing hormone (GnRH) stimulates LH release.
+5.  **Growth hormone (GH)** or **somatotropin** - an anabolic\[2\] hormone that regulates cell growth and division, promotes protein synthesis, and encourages the use of fats for fuel to conserve glucose. The hypothalamus regulates GH secretion through its secretion of growth hormone-releasing hormone (GHRH) or somatocrinin and growth hormone-inhibiting hormone (GHIH) or somatostatin. GHIH also inhibits the release of virtually all gastrointestinal and pancreatic endocrine and exocrine secretions. Gigantism, acromegaly, progeria, and pituitary dwarfism are diseases associated with either unbalanced GH secretion. 
+6.  **Prolactin (PRL)** - stimulates and promotes milk production. The hypothalamus release of prolactin-releasing hormone (PRH) or serotonin stimulates PRL release. The hypothalamus release of prolactin-inhibiting hormone (PIH) or dopamine inhibits PRL release. In males PIH dominates. In females, low estrogen levels stimulate PIH release, and high estrogen levels stimulate PRH release. The secretion of PRL during a normal menstrual cycle is synchronous with LH secretion. 
+
+High postovulatory levels of estrogen and progesterone suppresses PIH release and encourages PRL release. Elevated PRL is thought by some to accounts for premenstrual breast tenderness and swelling. However, there are a myriad of aetiologies for premenstrual breast tenderness and these would also need to be accounted for before attributing the tenderness to elevated PRL alone.
+
+In pregnant females, PRL levels rise dramatically in the third trimester due to stimulation by the hormone milieu of pregnancy (primarily estrogenic). Infant suckling on the breast stimulates PRH release, and encourages milk production. Some birth control pills and opiates stimulate PRH release. Impotence, infertility, amenorrhea, and galactorrhea (inappropriate lactation) are diseases associated with excessive PRL secretion.
+
+ **Pro-opiomelanocortin (POMC)** is a pro-hormone synthesized by the anterior pituitary, and is the source of ACTH, two natural opiates (encephalin and beta-endorphin), and melanocyte-stimulating hormone (MSH). MSH stimulates increased synthesis of the melanin pigment.
+
+\[1\] Glucocorticoid - any of a group of steroid hormones, such as cortisone, that are produced by the adrenal cortex, is involved in carbohydrate, protein, and fat metabolism, and have anti-inflammatory properties.
+
+\[2\] Anabolism (adj. anabolic) - the phase of metabolism in which simple substances are synthesized into the complex materials of living tissue. 
+
+___
+
+### Posterior Pituitary Lobe {.unnumbered}
+
+The **posterior pituitary** lobe or **neurohypophysis** is a storage area for neurohormones synthesized by the hypothalamus and is not a true endocrine gland. The posterior lobes releases many neurohormones transmitted to it by the hypothalamus, of which two are particularly important.
+
+1.  **Oxytocin** - stimulates smooth muscle contraction of the female reproductive tract, particularly the uterus during labor. The number of oxytocin receptors increases in the uterus towards the end of pregnancy, this ensures a continuous positive feedback to the hypothalamus to continue synthesis and release of oxytocin through the posterior pituitary lobe. Oxytocin stimulated uterine contractions are critical for compressing ruptured blood vessels at the placental site after birth. Oxytocin facilitates ejection of milk from the breast during nursing (“let-down reflex”). The release of oxytocin during breastfeeding works on a positive feedback -- infant suckling is a neural stimulus for the hypothalamus to synthesize oxytocin and release it through the posterior pituitary. The less the infant suckles the less oxytocin is produced and released. It plays a role in sexual arousal and orgasm in both sexes, and is responsible for the feeling of satiety following sexual arousal and orgasm, and promotes nurturing and affectionate behavior. 
+2.  **Vasopressin** or **antidiuretic hormone (ADH) -** constricts blood vessels (vasoconstriction) particularly the peripheral vessels, raises blood pressure, and regulates body hydration by inhibiting or preventing urine formation and excretion. The target cells for ADH are in the kidney tubules. Pain and low blood pressure, as well as certain drugs (nicotine, morphine, and barbiturates) stimulate ADH release. Alcohol and diuretic drugs inhibit ADH release. Diabetes insipidus is a disease associated with ADH deficiency. SIADH (syndrome of inappropriate ADH secretion) is associated with ADH hypersecretion, and which may occur after administration of general anaesthesia and certain drugs (e.g. meperidine). 
+
+### Hypothalamic-Pituitary Axis (HPA) {.unnumbered}
+
+The **posterior pituitary lobe** is really part of the brain, its neural connection arising from an outgrowth of hypothalamic nerve tissue, and maintains its connection to the hypothalamus through the nerve bundle called the **hypothalamichypophyseal tract** running through the infundibulum from the hypothalamus. Through this route, the hypothalamus conveys hormones to the posterior pituitary lobe, and stimulates it to release stored hormones.
+
+The hypothalamus controls the activity of the **anterior pituitary lobe**. There is no direct neural connection between the hypothalamus and the anterior pituitary lobe. However, there is a vascular connection via the **hypophyseal portal system**. Through this system, amino-acid based hypothalamic regulatory hormones (releasing and inhibiting) secreted by certain neurons in the hypothalamus directly regulate the secretory activity of the hormone-producing cells in the anterior pituitary lobe. Although many different releasing and inhibiting hormones pass from the hypothalamus to the anterior lobe, the individual anterior pituitary target cells distinguish the messages directed to them and respond in kind - synthesizing and secreting the proper hormones in response to specific releasing hormones, and shutting off hormone release in response to inhibiting hormones. The releasing hormones are important as regulatory factors because the secretory cells of the anterior pituitary lobe store very few hormones. 
+
+----
+
+## 4.3 - Adrenal Glands {.unnumbered}
+
+### Adrenal (Suprarenal) Glands {.unnumbered}
+
+Enclosed in a fibrous cushion of fat, the paired pyramid-shaped **adrenal glands** (suprarenal) sit atop the kidneys. Each adrenal gland is structurally and functionally like two endocrine glands in one. The inner **adrenal medulla** is a knot of nervous tissue that derives from the neural crest and acts as part of the **sympathetic nervous system**. The bulk of the gland is the outer **adrenal cortex**, which derives from embryonic mesoderm, and encapsulates the medulla. The cortex and the medulla each produce their own set of hormones, but all adrenal hormones are designed for helping the body cope with stress.
+
+### Adrenal Cortex {.unnumbered}
+
+The adrenal cortex synthesizes more than two dozen different **steroid** hormones from cholesterol, collectively called **corticosteroids**. There are three distinct layers to the adrenal cortex, and each layer produces a certain type of corticosteroid. The outermost zona glomerulosa produces mainly **mineralocorticoids**; the zona fasciculata produces **glucocorticoids**; and the inner most zona reticularis, abutting the adrenal medulla, produces **gonadocorticoids**.
+
+The main function of the **mineralocorticoids** is to regulate electrolyte concentrations in extracellular fluids, particularly sodium and potassium. **Aldosterone** accounts for 95% of the mineralocorticoids produced, and its main role is to maintain intracellular sodium ion balance. Rising blood levels of potassium ions, low blood levels of sodium ions, and decreasing blood volume and blood pressure stimulate aldosterone secretion, and the reverse conditions inhibit aldosterone secretion. Under conditions of severe stress, ACTH released by the hypothalamus stimulates aldosterone secretion. (See ACTH in Section 4.3 “The Role of the Pituitary and Hypothalamus”) (Web team link to Section 4.2 “The Role of the Pituitary and Hypothalamus”) Atrial natriuretic peptide (ANP) hormone secreted by the heart and which fine-tunes blood pressure inhibits aldosterone secretion.
+
+Some females experience increased levels of aldosterone premenstrually (PMS-H)\[1\], which increases extracellular fluid volume and increased fluid retention. Aldosterone levels may rise due to any of the following three factors.
+
+1.  Stress - aldosterone is secreted by the adrenal cortex under the control of ACTH, which is secreted by the pituitary in response to stress, high serotonin\[2\] levels and angiotensin II\[3\]
+2.  Estrogen Excess (unopposed estrogen) - estrogen increases hepatic (liver) excretion and production of angiotensinogen, the precursor to angiotensin II
+3.  Dopamine\[4\] deficiency - a relative dopamine deficiency has been demonstrated in PMS-H patients. Dopamine suppresses aldosterone formation in the adrenal glands and, in the kidneys, is naturetic  and diuretic.  
+
+The main function of **glucocorticoids** is to influence most body cells to resist stressors, and is essential to survival. They keep blood sugar levels constant, maintain blood volume, and help the body negotiate trauma by increasing blood glucose levels. Glucocorticoids include **cortisol (hydrocortisone)**, the dominant glucocorticoid, and **cortisone** and **corticosterone**. The basic affect of glucocorticoids on target cells is to modify gene activity. A negative hypothalamic-pituitary-adrenal feedback system regulates glucocorticoid secretion. The hypothalamus releases CRH to stimulate ACTH release from the anterior pituitary, which promotes cortisol release. Rising cortisol levels inhibit CRH and ACTH release.
+
+**Cortisol** secretion follows a rhythm of secretory bursts, peaking shortly after arising in the morning (or from a minimum of 6 hours full rest) and falling to lowest levels just before the next bedtime (full rest). Interruptions to this rhythm occur when the sympathetic nervous system responds to acute stress by overriding the inhibitory effects of elevated cortisol levels, and triggers CRH and ACTH release causing a further elevation of cortisol release. Under acute stress, cortisol provokes increased blood levels of glucose, fatty acids, and amino acids. The main function of cortisol is to promote **gluconeogenesis**, that is, the formation of glucose from non-carbohydrate molecules (fats and proteins). Additionally, cortisol 1) mobilizes fatty acids from adipose tissue\[5\], encouraging increased use of fatty acids for energy needs of most tissue cells, thereby conserving glucose for the brain 2) breaks down stored proteins to provide building blocks for repair or for making metabolic enzymes 3) enhances effects of epinephrine, including vasoconstriction, increase in blood pressure and circulatory efficiency, and rapid distribution of nutrients to cells.
+
+**Excess cortisol** has significant anti-inflammatory and anti-immune effect. Generally, excessive blood levels of all glucocorticoids are associated with 1) suppression of bone and cartilage formation 2) inhibition of functional inflammation 3) suppression of immune function 4) unfavorable changes in cardiovascular, neural, and gastrointestinal functions.
+
+The main function of the **gonadocorticoids (sex hormones)** though not fully understood, clearly have a role in the pubertal appearance of axillary and pubic hair, the development and maintenance of the sex drive, and some are converted to estrogens after menopause when ovarian estrogen is no longer or minimally produced. Most gonadocorticoids are **androgens** (male sex hormones) and include androstenedione and other steroids that convert to **testosterone** and **dihydrotestosterone** in peripheral tissues before they are effective. The adrenal cortex also synthesizes small amounts of the female sex hormone estrogen. The amount of sex hormones the adrenal cortex produces is minimal compared to gonad production. ACTH stimulates gonadocorticoid release, but gonadocorticoids do not exert feedback on ACTH release. Hypersecretion of gonadocorticoids causes masculinization (virilization).
+
+### Adrenal Medulla {.unnumbered}
+
+The adrenal medulla, encapsulated by the three layers of the adrenal cortex is part of the autonomic nervous system\[6\]. The medulla is made of **chromaffin cells**, surrounded by capillaries and sinusoids, which are a modified type of neuron that secrete the **catecholamines**\[7\], **epinephrine** and **norepinephrine** into the blood. Acute stressors trigger the sympathetic nervous system to activate its “fight-or-flight” status - elevated blood glucose, vasoconstriction, increased heart rate, and diversion of blood from non-essential organs to the brain, heart and skeletal muscles - and release epinephrine and norepinephrine which prolongs and reinforces the fight-or-flight response. Both epinephrine and norepinephrine exert the same effect though the volume of epinephrine is secreted is about 4 times that of norepinephrine. Of the two, **epinephrine** is the more potent heart and metabolic activity stimulator, and **norepinephrine** has more influence on peripheral vasoconstriction and blood pressure, including bronchodilation\[8\]. The catecholamines have relatively brief responses to acute stressors compared to the adrenocortical hormones. Unlike the glucocorticoids, the catecholamines are not essential for life, as they only intensify what the sympathetic nervous system has already put into place.
+
+\[1\] PMS-H - premenstrual syndrome, and its various forms, as well as premenstrual dysphoric disorder will be dealt with in detail in subsequent units.
+
+\[2\] Serotonin - a neurotransmitter, formed from tryptophan, which is found in the brain, blood serum, and gastric mucous membranes, and is active as a neurotransmitter in vasoconstriction, stimulation of the smooth muscles, and regulation of cyclic body processes.
+
+\[3\] Angiotensin -- a hormone secreted by the kidneys, and is a powerful vasoconstrictor used in the regulation of blood pressure
+
+\[4\] Dopamine - a monoamine neurotransmitter formed in the brain by the decarboxylation of dopa, an amino acid formed in the liver from tyrosine. Dopamine is similar to adrenaline. It is essential to the normal CNS function, and controls movement, emotional response, and the ability to experience pain and pleasure.
+
+\[5\] Adipose tissue - a type of connective tissue that contains stored cellular fat.
+
+\[6\] Autonomic nervous system - the part of the vertebrate nervous system that regulates involuntary action (intestines, heart, and glands), and includes the sympathetic nervous and parasympathetic nervous systems.
+
+\[7\] Catecholamine - any of a group of amines derived from catechol that have important physiological effects as neurotransmitters and hormones and include epinephrine, norepinephrine, and dopamine.
+
+\[8\] Bronchodilation - relaxation of bronchial smooth muscle, which widens air passages of the lungs.
+
+----
+
+## 4.4 - Thyroid Gland Function {.unnumbered}
+
+### Thyroid Gland {.unnumbered}
+
+The **thyroid gland** is a butterfly-shaped gland (about 25 grams), composed of two lobes and is located at the base of the throat, on the trachea, just beneath the larynx. It is the body's largest endocrine gland. It has two lobes joined by an isthmus that enfolds the trachea on either side (opposite of the 5th, 6th and 7th cervical vertebrae).
+
+The interior of the thyroid gland is made of hollow, spherical follicles, separated by connective tissue, and its walls are lined with follicle cells that encircle the inner colloid space (colloid lumen) and produce **thyroglobulin**. The follicles store **colloid**, which is made of thyroglobulin molecules with attached iodine atoms. **Thyroid hormone** **(TH)** derives from colloid. The para follicular cells or C-cells, which are part of the follicular epithelium and protrude into the connective tissue between thyroid follicles, produce the hormone **calcitonin**.
+
+The pituitary hormone TSH stimulates the thyroid to produce two hormones, **thyroxin (T4)** and **triiodothyroine (T3)** in the presence of **iodide**. Thyroid hormone production has a six-stage process, and requires the following three critical components for this process: dietary iodine converted to iodide, thyroid peroxidase enzyme (TPO), and the amino acid tyrosine. [Iodine Why You Need It](http://jeffreydachmd.com/wp-content/uploads/2014/02/Brownstein-American-Nuturiton-Association-2011-Slides.pdf)
+
+The **anterior pituitary** is crucial for proper thyroid function through the production and secretion of thyroid stimulating hormone (TSH). TSH secretion is positively regulated by the neurohormone **thyrotropin-releasing hormone (TRH)** from the hypothalamus. The **hypothalamus** secretes TRH to stimulate TSH production in the anterior pituitary
+
+Thyrotropin Releasing Hormone (TRH) {.unnumbered}
+
+Thyrotropin releasing hormone (TRH) is a small tripeptide that acts in conjunction with somatostatin and dopamine to regulate the synthesis and release of TSH in a dose dependent manner. Dysfunction at this stage in the stimulatory cascade results in decreased TSH production and hence **hypothyroidism**, termed a tertiary thyroid disorder. While thyroid hormones T4 and T3 down-regulate TSH in a classic feedback inhibition scheme, TRH production is also inhibited the these thyroid hormones, albeit to a lesser degree, in the hypothalamus.
+
+![[C4.4-1-thyroid-system.png]][link to image](https://justisse.ca/MediaGallery/HRHP%20Images/HRHP/UnitC/300px-Thyroid_system.svg.png)
+
+### Thyroid Stimulating Hormone (TSH) {.unnumbered}
+
+The basophilic cells (thyrotropes) of the anterior pituitary synthesize thyroid-stimulating hormone (TSH). Though the alpha subunit of TSH is common to LH, FSH, HCG, its beta subunits are hormonally and immunologically specific, though both alpha and beta subunits are required for biological activity. TSH stimulates the production and secretion of the metabolically active thyroid hormones, thyroxin (T4) and triiodothyronine (T3), by interacting with a specific receptor on the thyroid cell surface. T3 and T4 regulate multiple biochemical processes, and essential for normal development, and metabolic and neural activity.
+
+TRH stimulates the synthesis and secretion of TSH in response to low levels of circulating thyroid hormones. Elevated T3 and T4 levels suppress TSH production through negative feedback. **Somatostatin** and **dopamine** exert inhibitory control over TSH release, which suggests that the hypothalamus provides both inhibitory and stimulatory influence on pituitary TSH production. Failure at any level of regulation of the hypothalamic-pituitary-thyroid axis will result in either underproduction (**hypothyroidism**) or overproduction (**hyperthyroidism**) of T4 and/or T3.
+
+### Thyroid Hormone (TH) {.unnumbered}
+
+Thyroid hormone (TH) is the body's major metabolic hormone. (See [Unit C Section 2.6.)](https://justisse.ca/index.php/college/courseware/page/1492) **TH** is actually two active iodine-containing hormones: **thyroxine (T4)** with four bound iodine atoms and **triiodothyronine (T3)** with three bound iodine atoms. Thyroxin is the main hormone secreted by thyroid follicles. Thyroxin converts to triiodothyronine at the target cells. The thyroid gland affects most cells of the body, except for the spleen, testes, uterus, the thyroid gland itself, and the adult brain. Its main role is to stimulate enzymes involved with glucose oxidation that increases basal metabolic rate (BMR), and thus oxygen consumption and basal body temperature (BBT) **(calorigenic effect)**. Additionally, TH plays a role in maintaining blood pressure, and regulating the normal growth and development of most body tissue, especially skeletal, nervous, and reproductive systems.
+
+With respect to reproduction -- Low secretion of TH (hypothyroidism) depresses ovarian and testicular functions, may produce sterility, and depresses lactation. Over secretion of TH (hyperthyroidism) depresses ovarian and testicular functions, and causes impotence in males.
+
+![[C4.4-2-thyroid-hormone-synthesis.png]][link to image](https://justisse.ca/MediaGallery/HRHP%20Images/HRHP/UnitC/Thyroid_hormone_synthesis.png)
+
+### Thyroid Hormone Regulation {.unnumbered}
+
+Most of the released thyroxin (T4) and triiodothyonine (T3) binds to plasma proteins, the most important being **thyroxin-binding globulin**, produced by the liver. T3 binds ten times (10 x) more actively than T4 to target receptors, giving it greater biologic potency. Nevertheless, T4 is present in human serum at levels about 50 times that of circulating T3, and accounts for more than 90 percent of the circulating protein-bound iodine. This is not a problem if the peripheral tissues of the target receptors have the necessary enzymes to convert T4 to T3, which is the active form of the thyroid hormone. (Imagine T4 as the gas, and T3 as the gas in the fuel injectors of the car, the former is potential and the latter is active.) The thyroid gland is responsible for the production of all circulating T4 and about 20% of T3. The other 80% of the body's supply of T3 comes from peripheral conversion of T4 through a variety of tissue-specific deiodinase enzyme activity (deiodinase removes one iodine from the T4 molecule to make it a T3 molecule). Falling thyroxin (T4) levels stimulates the hypothalamus to stimulate the anterior pituitary (hypothalamic-pituitary axis) to release **thyroid-stimulating hormone** **(TSH)**, to which a healthy thyroid gland responds with producing T4 and T3. Elevated thyroxin (T4) levels inhibit TSH release.
+
+Conditions such as pregnancy, extreme or prolonged adaptation to severe weather (heat or cold), chronic and pervasive stress or acute stress (e.g. overwork, trauma, athleticism, chronic illness) increase body energy requirements. This increased requirement for energy stimulate the hypothalamus to secrete **thyrotropin-releasing hormone (TRH)**, which triggers TSH release. TRH overcomes negative feedback controls in response to stress. As the thyroid gland releases larger amounts of thyroid hormones, body metabolic rate is enhanced. Rising levels of glucocorticoids, estrogen (particularly synthetic estrogens), testosterone, and blood iodide concentration inhibit TSH release.
+
+### Calcitonin {.unnumbered}
+
+The most important role of calcitonin is to lower blood calcium levels. It is an antagonist to parathyroid hormone produced by the parathyroid, which regulates blood calcium. Calcitonin has a bone sparing effect by inhibiting bone resorption and release of ionic calcium from the bony matrix, and by stimulating calcium uptake and incorporation into the bone matrix. Calcium blood levels 20% above normal stimulate calcitonin release, and declining calcium blood levels inhibits calcitonin release. The effect of calcitonin is rapid, and most active in childhood during the most active skeletal growth.
+
+The thyroid's function is to secrete hormones that control metabolic pathways, which control numerous physiological functions. The thyroid gland operates in concert with the **hypothalamus** and the **pituitary**, as part of the **hypothalamic-pituitary-thyroid axis** **(HPTA)**. In addition to the stimulatory cascade leading to thyroid hormone secretion, the axis is also subject to feedback inhibition by the circulating thyroid hormones. 
+
+### Metabolic Disturbances Associated with Thyroid Function Imbalance {.unnumbered}
+
+Abnormalities of thyroid function and thyroid hormone (TH) balance are common among people who suffer from chronic illnesses. Among women, the **postpartum period** is a common time for a thyroid disorder to first manifest clinically, in part due to the physiological stress of pregnancy and/or a subclinical thyroid condition in existence at the beginning of the pregnancy. Hypothyroid disorders may result from a defect of the thyroid gland itself (goiter, tumor, antibodies against thyroid tissue) or thyroid hormone imbalance (e.g. inadequate TSH or TRH release); surgical removal of the thyroid gland (thyroidectomy); problems with conversion (e.g. T4 to reverse T3 or inadequate conversion of T4 to T3); and insufficient dietary intake of iodine, vitamin A, selenium and/or zinc.
+
+The following symptoms are associated with **hyposecretion of TH**: Low BMR and BBT; cold intolerance; decreased appetite; weight gain; depressive and bi-polar disorders; decreased glucose metabolism; depresses adrenal medulla function; elevated blood cholesterol and/or triglyceride; decreased protein synthesis; edema; deficient brain and neural development in the fetus and infant; mental dullness; memory impairment; slow reflexes; low heart rate and blood pressure; muscle cramps and pain (myalgia); growth retardation in children; joint pain in adults; sluggish gastrointestinal tone, movement and activity, constipation; depressed ovarian and testicular function, depressed lactation; sterility; hair loss; thick, pale and dry skin; facial edema. Myxedema, endemic goiter, and cretinism are hypothyroid disorders.
+
+The following are associated with **hypersecretion of TH**: above normal BMR and BBT; heat intolerance; increased appetite; weight loss; bi-polar, manic and psychotic disorders; muscle atrophy and weakness; irritability, restlessness, insomnia; exophthalmia (bulging eyes; rapid heart rate and possible palpitations; high blood pressure; elevates adrenal medulla function; heart failure; excessive skeletal growth in children; demineralized skeleton in adults; excessive gastrointestinal motility, diarrhea; impotence; depressed ovarian and testicular function; flushed, thin, and moist skin; soft, thin finger nails. Graves' disease is an autoimmune hyperthyroid disorder.
+
+Elevated T3 levels are characteristic of **hyperthyroidism,** and depressed T3 levels are characteristic of **hypothyroidism.** Levels just below or above laboratory normal ranges may still indicate a sub clinical disease process if the basal body temperature is not in normal range or is unstable. T3-thyrotoxicosis is associated with normal T4 levels accompanied by elevated T3 levels. T3 levels may also be affected by thyroid medication, nutritional deficiencies or supplements.
+
+The level of thyroxin binding globulin (TBG) has a pronounced effect on the concentration of thyroid hormones. When TBG levels are high it binds to T4 causing less free T4 (unbound by TBG) to be available for conversion to T3. The pituitary responds to decreased free T4 levels by increasing TSH production, and conversely responds to increased free T4 levels by decreasing TSH production.
+
+Conditions that increase TBG concentrations are  for example, **pregnancy**, use of **hormonal contraceptives**, elevated estradiol, liver dysfunction, or **synthetic estrogen replacement HRT**).
+
+Conditions that decrease TBG production include **elevated androgens**, corticosteroid, or glucocorticoid levels, or a systemic illness. For example some autoimmune disorders, hyperthyroidism, or conditions that allow for more T4 to be converted to T3, resulting in a decreased T4 level and elevated T3 level.\[1\]
+
+TBG tests are sometimes useful in exploring the cause of elevated or diminished levels of T4 and T3. If the person has uncomplicated hypothyroidism TBG levels will be normal, TSH will be elevated and T4 and T3 will be diminished. If total thyroid hormone levels point to hypothyroidism or hyperthyroidism in the absence of accompanying symptoms, testing for TBG is useful. TBG production can be modified by other factors, as noted above (e.g. estrogen or corticosteroid levels, or liver funciton). If, for example, the TBG level is high in the presence of elevated estradiol levels the TBG will bind more T4 thereby decreasing the free T4 available, which then stimulates pituitary production of TSH, and the production of more T4 and T3 by the thyroid gland. So in this scenario both TBG and T4 and T3 will be elevated. 
+
+The thyroid gland is responsible for the production of all circulating T4 and about 20% of T3. The other 80% of the body's supply of T3 comes from from peripheral conversion of T4 through a variety of tissue-specific deiodinase enzyme activity (deiodinase removes one iodine from the T4 molecule to make it a T3 molecule). Falling thyroxin (T4) levels stimulates the hypothalamus to stimulate the anterior pituitary (hypothalamic-pituitary axis) to release **thyroid-stimulating hormone** **(TSH)**, to which a healthy thyroid gland responds with producing T4 and T3. Elevated thyroxin (T4) levels inhibit TSH release.
+
+The role of T3 is the most critical in maintaining normal thyroid function. T3 is the metabolically active hormone, and T4 serves as a "**pro hormone**" for T3 just as thyroglobulin does for T4. Agents or conditions that inhibit T3 formation decrease the production and metabolic effectiveness of T4, which the differences in TBG binding affinity and half-life between T3 and T4 also influence. **Pregnancy**, use of **oral contraceptives**, or **estrogen replacement** elevate T3 levels by elevating TBG levels. Acute illness, chronic illness and inflammation, malnutrition, renal failure, dieting, or antithyroid drugs decrease the conversion of T4 to T3, and thus depresses T3 levels.
+
+As well, a deficiency of **dietary iodide** significantly suppresses the conversion of the thyroid hormone thyroxine (T4) into its active form triiodothyronine (T3 ). This is so in the presence of a goiter, and in the presence of thyroid tissue that seems normal on ultrasound or palpation. When iodine deficient T4 levels are high, T3 levels are low and TSH is elevated. Without dietary iodide, T4 cannot be converted to T3.  As well in the presence of iodine deficiency T4 may convert to reverse T3 (a protein bound inactive form of T3).
+
+In the case of **Hashimoto's Thyroiditis** (chronic lymphatic thyroiditis or autoimmune thyroiditis), thyroid hormone balance is disrupted due to autoimmune attacks against the proteins in the thyroid gland. Elevated TSH and thyroid peroxidase antibody (TPO) are common, with sometimes normal T3 and T4 levels. 
+
+ **Wilson's Temperature Syndrome** is a problem of conversion of T4 to T3. Please read more about this syndrome here [http://www.wilsonssyndrome.com/](http://www.wilsonssyndrome.com/)   On that site are available PDF for both the lay person and health care provider. You are not expected to know this at this point in your training but develop and awareness of this syndrome for future reference.  
+
+| Thyroid Antibody | Abbreviation | Present in |
+| --- | --- | --- |
+| Thyroid peroxidase antibody | TPOAb | Hashimoto thyroiditis; Graves disease |
+| Thyroglobulin antibody | TgAb | Thyroid cancer; Hashimoto thyroiditis |
+| Thyroid stimulating hormone receptor antibody, Thyroid Stimulating Immunoglobulin | TRAb, TSHR Ab, TSI | Graves disease |
+
+___
+
+1\] Serum T4 levels give a good indication of thyroid function, though T4 values should be normalized for individual thyroxin binding protein (TBP) capacity, by using the free thyroxin index (FTI). To ensure maximum diagnostic accuracy, the final definition of thyroid status should be determined in conjunction with other thyroid function tests such as TSH, FT4, Total T3, T3I levels, and clinical evaluation by a competent health care provider. Serum T3 measurements can be a valuable component of a thyroid screening panel in diagnosing certain disorders of thyroid function, as well as conditions caused by iodide deficiency. Clinically, measurements of serum T3 concentration are especially valuable in diagnosing hyperthyroidism and in following the course of therapy for this disorder. Under conditions of strong thyroid stimulation, the T3 measurement provides a good estimation of thyroid reserve. 
+
+___
+
+### OAT: Ovarian-Adrenal-Thyroid axis {.unnumbered}
+
+Please read Dr. Lam's website information on the ovarian-adrenal-thyroid axis: **[Adrenal Fatigue and OAT Axis Imbalance](https://www.drlam.com/articles/ovarian_adrenal_thyroid.asp)**. This is a relatively new concept, which probably should have been considered ages ago. 
+
+The article does address the multiple disorders associated with OAT axis imbalance. Here one must consider biochemical individuality and the complexity of the ways in which the body adapts to imbalances. Most endocrine and immune biochemical function happens in the gut, so if the gut is not healthy (dysbiosis, allergy, food intolerance, infection, nutrient deficient, etc) then hormonal function will be affected. There is the whole chicken and the egg dilemma. What came first; disrupted gut/diet or disrupted endocrine function? Most likely subtle feedback between the two contributes to imbalances. Remember that many imbalances are really the body's attempt to maintain homeostasis, which ironically doesn't always work over the long term. Do check out the rest of Dr. Lam's site as there are many very helpful and medically sound references.
+
+___
+
+### Postpartum Thyroid Function Imbalance {.unnumbered}
+
+**About 10% of females experience postpartum thyroid dysfunction within the first year postpartum**. The physiological stress of pregnancy in these cases either exacerbates a pre-existing thyroid imbalance or uncovers a undiagnosed imbalance. The postpartum female may experience a primary disorder of the thyroid, such as postpartum thyroiditis (PPT) and Graves's disease, or a secondary disorder of the hypothalamic-pituitary axis, such as Sheehan syndrome and lymphocytic hypophysitis.
+
+**Postpartum thyroiditis (PPT)** is a transient though destructive lymphocytic thyroiditis developing in the eight months postpartum. It is an autoimmune disorder. PPT has 2 phases: thyrotoxicosis and hypothyroidism. Thyrotoxicosis occurs in the first four months postpartum and is self-limited, and is caused by the increased release of stored hormone as a result of disruption of the thyroid gland. Hypothyroidism arises between the fourth and eighth month postpartum. Those who develop PPT have a history of a positive antithyroid antibody test, previous history of PPT, and family or personal history of other thyroid or autoimmune disorders. About 4% develop transient thyrotoxicosis postpartum; of these, from 66% to 90% return to a euthyroid (normal thyroid) state and about 33% progress to a hypothyroid state. About 2-8% become hypothyroid postpartum period, a third of which experience transient thyrotoxicosis, and 10-30% of which develop permanent thyroid dysfunction.
+
+Females with high antithyroid antibody levels during pregnancy, multiparity, and history of spontaneous abortions are at high risk for permanent hypothyroidism. Having developed PPT, they are at significant risk for recurrent disease after subsequent pregnancies.
+
+Those who develop postpartum hypothyroidism may experience a **slow return to normal cycling postpartum**, and may experience subsequent sub fertility or infertility. They are also highly prone to **postpartum depression**.
+
+Those with thyrotoxicosis may report fatigue, palpitations, heat intolerance, tremulousness, nervousness, and emotional lability. Patients in the hypothyroid phase often complain of fatigue, dry skin, coarse hair, cold intolerance, depression, and memory and concentration impairment. Because many of these symptoms are mild and non-specific and are often associated with the normal postpartum state, PPT may go undiagnosed. **PPT has a deleterious effect on lactogenesis**.
+
+**Postpartum Graves disease** is less common than PPT, though accounts for 15% of postpartum thyrotoxicosis. It is an autoimmune disorder characterized by diffuse hyperplasia (enlargement) of the thyroid gland caused by the production of antibodies to the thyroid TSH receptor, resulting in increased thyroid hormone production and release. It is similar to Graves's disease and has the same diagnostic criteria and treatment.
+
+**Lymphocytic hypophysitis** is a rare autoimmune disorder causing pituitary enlargement and hypopituitarism, leading to a decrease in TSH and to hypothyroidism. Symptoms include headache, visual field deficits, **difficulty lactating**, and **amenorrhea**.
+
+**Sheehan syndrome** is the result of ischemia (restricted blood supply), congestion, and infarction (necrosis) of the pituitary gland, resulting in panhypopituitarism caused by severe blood loss at the time of delivery. Patients have **difficulty lactating** and develop **amenorrhea**, as well as symptoms of cortisol and thyroid hormone deficiency. 
+
+You will learn more about some of these topics in **Unit G** when you study **postpartum depression**. 
+
+----
+
+## 4.5 - Melatonin and Pheromones {.unnumbered}
+
+### Melatonin and Pheromones {.unnumbered}
+
+We are already aware that the human reproductive system is influenced by a number of hormones, including GnRH, FSH, LH, estrogen, testosterone, and progesterone. In addition, environmental factors such as **length of exposure to daylight** influence the human reproductive cycles, particularly the female reproductive cycle. The hormone **melatonin**, derived from serotonin and produced by the small cone-shaped **pineal gland**\[1\], plays a role in the regulation of aging, the sleep-wake cycle, and some aspects of the reproductive cycle and mood. Melatonin levels wax and wane in a diurnal cycle, peaking during the night (activating sleep), and waning at the return of daylight with the lowest level around noon. Because the majority of melatonin is secreted in the dark, it is secreted at higher levels in the months when there is less daylight.
+
+The pineal gland requires exposure to sunlight to synthesize melatonin. The pineal gland indirectly receives input from the visual pathways (retina > suprachiasmatic nucleus of hypothalamus > superior cervical ganglion > pineal gland) regarding the intensity and duration of daylight. Artificial light interferes with that mechanism. The suprachiasmatic (SC) nucleus of the hypothalamus **(“biological clock”)** has many melatonin receptors. A sleeping environment that is contaminated by artificial or natural light, even small amounts can suppress melatonin secretion and reset the timing of the biological clock. This interferes with sleep-wake cycles and reproductive rhythms. Providing for the pineal gland to be exposed to physiological correct amounts of sunlight, and for physiologically correct amounts of darkness for melatonin secretion to take place are means by which to regulate body temperature, sleep, appetite, and hypothalamic activity in general - all of which contribute to the **regulation of the female reproductive cycle**.
+
+As part of the mechanism that **initiates sexual maturation**, melatonin levels decline by 75% before the onset of puberty. (Blind girls whose pineal glands do not receive light from their eyes have delayed onset of puberty.) Melatonin mediates the affects of changes in the relative lengths of light and dark on **sexual receptivity** and gonadal response.
+
+Also, special sex pheromones convey information about receptivity to members of the opposite sex\[2\]. A **pheromone** is a chemical secreted that influences sexual behavior and responsiveness, often functioning as an attractant of the opposite sex. It is a common phenomena that the menstrual cycles of females living together or working together for extended periods of time synchronize, such that they “have their periods” at the same time. Experimental studies have shown that when perspiration from "woman A" is dissolved in alcohol and applied above the upper lip of other females (several times a week) their cycles adjust to coincide with woman A. There is also evidence that frequent exposure to male perspiration (pheromones) may influence the regulation of the female cycle, causing irregular, short, or long cycles to align closer to a regular 28 to 29 day rhythm, and in addition to cause changes in menstrual bleeding patterns. This may make sense from an evolutionary viewpoint as it would increase chance of conceiving if there is more frequent contact with an available mates, and especially if there was enough food and sharing of food, especially during pregnancy, postpartum, and lactation.
+
+___
+
+\[1\] Pineal gland - also called epiphysis, pineal body, or pineal organ
+
+\[2\] Females of most species exhibit receptivity to coitus around the time of ovulation, human females include. Additionally, the human female is receptive to coitus and sexual activity throughout the reproductive cycle.
+
+----
+
+## 4.6 - Relaxin Hormone {.unnumbered}
+
+### Relaxin Hormone {.unnumbered}
+
+Relaxin hormone is a reproductive hormone and is secreted by the ovaries (corpus luteum), uterus and breast tissue, and during pregnancy by the placenta. In men the seminal tubules secrete relaxin. This hormone is critical in effecting relaxation of the smooth muscles, and improves the integrity and quality of nerve tissue collagen, and plays a role in the regulation of fluid balance in the brain. Relaxin receptor sites are present in smooth muscles, cardiac muscles, connective tissue, and the autonomic and central nervous systems. Reduced relaxin levels are associated with the aging process and certain musculoskeletal disorders, such as fibromyalgia. One of the signaling pathways for the action of relaxin includes tyrosine, an amino acid used in the formation of the thyroid hormone.
+
+Relaxin promotes the formation of new blood vessels (angiogenesis), and is important in the development of the interface between the uterus and placenta. It **relaxes the pelvic ligaments and muscles, and softens and opens the cervix in preparation for labor and delivery**. Relaxin levels rise in response to elevated levels of estrogen and progesterone.
+
+Relaxin levels are highest during pregnancy. Cyclically, relaxin levels are lowest during the premenstrual phase and menses. The **cephalad shift** of the cervix experienced during the female reproductive cycle is caused by varying levels of relaxin. As in pregnancy, during the fertile phase an elevated level of relaxin relaxes pelvic ligaments, and softens and enlarges the cervical os. Relaxin levels slowly decrease throughout the perimenopause, and more quickly following menopause.
+
+-----
+
+## 4.7 - Sex Hormone Binding Globulin {.unnumbered}
+
+### Sex Hormone Binding Globulin {.unnumbered}
+
+[Article Written by Carol Petersen, RPh, CNP - Women's International Pharmacy: Sex Hormone Binding Globulin](https://www.womensinternational.com/blog/sex-hormone-binding-globulin/).
+
+#### Hormone levels in the blood must be just right {.unnumbered}
+
+Steroid hormones include testosterone, estrogens, DHEA, and progesterone, among others. Steroid hormones are fat soluble, but our blood is mostly water. Therefore, hormones and the blood do not mix very well. The body's solution to this problem is sex hormone binding globulin (SHBG), a protein created by the liver which connects with the fat-loving hormones. The resulting complex becomes water soluble and can move freely in the blood stream.
+
+SHBG carries these hormones throughout the body. SHBG also acts as a reservoir for the hormones it carries and protects the hormones from hyperactive liver metabolism and kidney excretion.
+
+SHBG combines with hormones to different degrees of affinity or attraction. The most strongly bound hormone is dihydrotestosterone (DHT), the active form of testosterone, followed by testosterone itself. SHBG also shows affinity, although considerably less, for estrogens, DHEA and even progesterone. Estrogens increase SHBG production in the liver if the liver is functioning correctly. Adiponectin, a hormone released by the fat cells is also involved. Hormones related to testosterone decrease SHBG production by the liver. Insulin, hypothyroidism and liver disease may also decrease SHBG. Low levels of SHBG are predictive of metabolic syndrome, diabetes, sleep apnea, PCOS, kidney disease and obesity.
+
+A useful test for checking hormone levels involves collecting urine for 24 hours and measuring the amount of hormone leaving the body that day. If a patient has low SHBG levels, testosterone will come out in the urine in greater amounts and may be interpreted as the patient having plenty of testosterone when their level is actually low. In order to accurately interpret the urine test results, the urine test should be accompanied by a blood test to measure SHBG.
+
+An interesting scenario happens when testosterone is used as a supplement. As mentioned previously, testosterone decreases SHBG production by the liver. With less SHBG available over time, the supplemental doses of testosterone are more rapidly excreted by the body and don't have an opportunity to build up in the blood and get to the tissues. It is important to test for SHBG especially if testosterone supplementation does not appear to be working.
+
+Low SHBG causing low testosterone availability puts one at risk for sleep apnea. Poor sleep can, in turn, cause a decrease in testosterone, SHBG, and growth hormone production, creating a viscous circle. Regaining weight after weight loss can be predicted by low SHBG and Polycystic Ovary Syndrome (PCOS) is also characterized by low SHBG.
+
+If SHBG levels are too high, both testosterone and estrogens are bound. High levels of SHBG increase one's risk for osteoporosis because the testosterone and estrogens needed to assist with bone formation are not available for use. Birth control pills can increase SHBG greatly and high SHBG can be predictive of blood clot formation while on these drugs. High SHBG can also be predictive for cardiovascular disease.
+
+Understanding SHBG is another tool to use in evaluating hormones. We are often tempted to label functions in our bodies as "good" or "bad" and some might apply this thinking to SHBG levels. There isn't good or bad SHBG, just the levels that provide the best functioning for our bodies.
+
+### Reference {.unnumbered}
+
+Dr. Scott Fogle, ND "SHBG: What is it good for?" Presented at the Age Management Medicine Group meeting, Las Vegas, November 2014.  
+Women's International Pharmacy, Inc. Toll Free Phone: 800. 279. 5708 ~ Toll Free Fax: 800. 279. 8011 ~ Email: info@womensinternational.com
